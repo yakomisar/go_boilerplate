@@ -1,1 +1,1 @@
-# go_boilerplate
+# JUST a typical boilerplate
